@@ -1,0 +1,2 @@
+# Qt_Lingiust_and_Delegate
+second_practica
